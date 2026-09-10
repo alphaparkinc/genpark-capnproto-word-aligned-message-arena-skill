@@ -1,0 +1,17 @@
+{
+  "name": "genpark-capnproto-word-aligned-message-arena-skill",
+  "version": "1.0.0",
+  "description": "Cap'n Proto 64-bit word-aligned message arena allocator managing object segments, pointers, and instantaneous serialization traversals.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "capnproto",
+    "word-alignment",
+    "message-arena",
+    "zero-overhead",
+    "serialization"
+  ],
+  "dependencies": []
+}
